@@ -59,7 +59,7 @@ When my mom passed away several years ago, I inherited two cemetery plots at the
 <p><img alignleft" src="/images/shipping_label.png" width="305" height="382"></p>
 <p>At least this guy was out about $7 bucks for a 2-day priority mail.  The address label showed a return address (Bros Inc, <a href="https://www.google.com/maps/place/9131+SW+Urish+Rd,+Auburn,+KS+66402/@38.9351959,-95.7357319,11.35z/data=!4m5!3m4!1s0x87bee10e420ddf89:0xf41beabc7db53efe!8m2!3d38.90084!4d-95.780951" target="_blank" rel="nofollow noopener noreferrer">9131 SW Urish Rd, Auburn, KS 66402</a>) is in the middle of nowhere rural Kansas on Google Maps.  I suspected this isn't "Mike Jones' " real address.  But I kept this information handy for future interactions.  It actually looks like a really nice house!</p>
 <p>When I opened the envelope, I found a single check inside:</p>
-<p><img class="alignnone size-full wp-image-479" src="/images/bad_check.png" alt="" width="1000" height="411"></p>
+<p><img src="/images/bad_check.png" width="1000" height="411"></p>
 <p>I decided to validate one more time just to confirm this was a scam.  I looked up the ABA Routing Number for Mountain America Federal Credit Union via a Google search.</p>
 <p>That didn't match the routing number on the check (011007092).  I figured, what the heck, let me call the good folks at MACU.  After a few fits and starts with their automated phone tree, I finally got a call back from their fraud department.  I explained that I was in possession of what I suspected was a fraudulent cashier check, but wanted to confirm.</p>
 <p>The agent asked me, "What color is the check?"</p>
