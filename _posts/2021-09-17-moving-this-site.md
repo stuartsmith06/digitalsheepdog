@@ -2,7 +2,7 @@
 layout: post
 title: "Moving This Site"
 author: "Stuart"
-tags: Cloudflare
+tags: web-hosting
 ---
 
 You may have heard over the past few months some of the "cancel culture" events news.  In particular, Amazon and the AWS platform made a decision to remove some conservative platforms such as Parler.  While I don't really want to get into the why's and wherefore's of the AWS decision, I emphatically disagree with the decision.  Regardless if you're conservative, liberal, or middle-of-the-road from a political perspective, everyone should disagree with this decision.  That being said, I have decided to move all the domain names and sites I have hosted on AWS elsewhere.   

@@ -2,7 +2,7 @@
 layout: post
 title: "DNS: what it is and why you should change yours"
 author: "Stuart"
-tags: DNS
+tags: "DNS"
 ---
 
 DNS, or Domain Name System (sometimes called Domain Name Service) is a system (or service) that translates easy to understand domain names into IP addresses.  An analogy for DNS is it's like the telephone book of the Internet (for those under 30 who don't know what a telephone book is, it's a big book that telephone companies used to publish that had a list of people, their home addresses, and telephone numbers).  

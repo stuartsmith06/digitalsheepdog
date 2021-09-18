@@ -12,7 +12,7 @@ What I have discovered is that many folks don’t understand exactly what this m
 
 <b>What a Credit Freeze Is</b>
 
-Very simply, a credit freeze prevents anyone from accessing your credit report from any of the three U.S. credit reporting agencies (CRAs):  Experian, TransUnion, and Equifax. 
+Very simply, a credit freeze prevents anyone from accessing your credit report from any of the three U.S. <abbr title="Credit Reporting Agencies">CRAs</abbr>:  Experian, TransUnion, and Equifax. 
 
 When you want to apply for credit, such as a credit card, personal loan, auto loan, mortgage, etc., the lender will pull a copy of your credit report from one (or more) of the CRAs.  A credit freeze prevents them from pulling your credit report.
 
@@ -28,7 +28,7 @@ A credit freeze does not affect any current accounts that you have open.  Your 
 
 Freezing/unfreezing your credit is a very straightforward process.  The easiest way to do this is online, via one of the CRAs websites.  They also offer a telephone and postal mail option to freeze/unfreeze your credit, I’m only going to focus on the online method to do this.
 
-A few years ago, Experian and TransUnion charged a small ($3.00) fee to do a freeze/unfreeze; however, as I am writing this, there is no charge for doing this with any of the three CRAs--at least in my home state of Georgia.  Also, the details below on freezing/unfreezing may have changed, but it is still a fairly straightfoward process with any of the CRAs.
+A few years ago, Experian and TransUnion charged a small ($3.00) fee to do a freeze/unfreeze; however, as I am writing this, there is no charge for doing this with any of the three CRAs--at least in my home state of Georgia.  Also, the details below on freezing/unfreezing may have changed, but it is still a fairly straightforward process with any of the CRAs.
 
 Another tip:  When applying for credit, ask the lender which CRA they use.  Then only unfreeze your credit with that specific agency(ies)--it saves some time.
 

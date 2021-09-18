@@ -2,7 +2,7 @@
 layout: post
 title:  "Why be a digital sheepdog?"
 author: "Stuart"
-tags: Digital Sheepdog
+tags: cybersecurity
 sticky: true
 ---
 
