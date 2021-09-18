@@ -20,4 +20,5 @@ Lastly, the deployment is a bit more straightforward, and works well with the Je
 2.	Push updates to a GitHub repo
 3.	Cloudflare Pages automatically detects changes and deploys a new “build” based on the updates in the GitHub repo
 4.	Cloudflare DNS has an alias to the Cloudflare Pages address for the FQDN of Digital Sheepdog
-I’m also already using Cloudflare’s DNS on my home network, so it was an easy transition to using their hosting service and DNS as well.
+
+<p>I’m also already using Cloudflare’s DNS on my home network, so it was an easy transition to using their hosting service and DNS as well.</p>
