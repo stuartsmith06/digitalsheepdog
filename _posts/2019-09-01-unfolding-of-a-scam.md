@@ -5,7 +5,7 @@ author: "Stuart"
 tags: scams
 ---
 
-When my mom passed away several years ago, I inherited two cemetery plots at the Mount Olivet Cemetery in Nashville.  I’ve been trying to sell them (with no success) on Craig’s List for the past few years.  Every few months I would renew the ad and usually within a few days, I would get contacted by someone who who expressed interest in purchasing the plots.  These were always scammers.  The last time I did this, the same thing happened.  This guy sent the email through the Craig's List email service, which hides the sender and recipient emails.
+<p>When my mom passed away several years ago, I inherited two cemetery plots at the Mount Olivet Cemetery in Nashville.  I’ve been trying to sell them (with no success) on Craig’s List for the past few years.  Every few months I would renew the ad and usually within a few days, I would get contacted by someone who who expressed interest in purchasing the plots.  These were always scammers.  The last time I did this, the same thing happened.  This guy sent the email through the Craig's List email service, which hides the sender and recipient emails.</p>
 
 <p style="padding-left: 30px;"><span style="color: #0000ff;">Tue, May 30, 2017 at 2:54 PM, Mike Jones &lt;<a style="color: #0000ff;" href="mailto:8f5d572a1cec3fa5b4dbc4a7c8128351@reply.craigslist.org">8f5d572a1cec3fa5b4dbc4a7c8128351@reply.craigslist.org</a>&gt; wrote:</span></p>
 <p style="padding-left: 30px;"><span style="color: #0000ff;">Hello, In regards to your ad do you still have the Lot for sale? What the actual price you sell to me?<br></span><span style="color: #0000ff;">Mike</span></p>
