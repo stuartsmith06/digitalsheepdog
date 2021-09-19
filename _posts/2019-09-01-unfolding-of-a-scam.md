@@ -7,16 +7,20 @@ tags: scams
 
 <p>When my mom passed away several years ago, I inherited two cemetery plots at the Mount Olivet Cemetery in Nashville.  I’ve been trying to sell them (with no success) on Craig’s List for the past few years.  Every few months I would renew the ad and usually within a few days, I would get contacted by someone who who expressed interest in purchasing the plots.  These were always scammers.  The last time I did this, the same thing happened.  This guy sent the email through the Craig's List email service, which hides the sender and recipient emails.</p>
 
-<p style="padding-left: 30px;"><span style="color: #0000ff;">Tue, May 30, 2017 at 2:54 PM, Mike Jones &lt;<a style="color: #0000ff;" href="mailto:8f5d572a1cec3fa5b4dbc4a7c8128351@reply.craigslist.org">8f5d572a1cec3fa5b4dbc4a7c8128351@reply.craigslist.org</a>&gt; wrote:</span></p>
+<p style="align-left: 30px;"><span style="color: #0000ff;">Tue, May 30, 2017 at 2:54 PM, Mike Jones 8f5d572a1cec3fa5b4dbc4a7c8128351@reply.craigslist.org wrote:</span></p>
 <p style="padding-left: 30px;"><span style="color: #0000ff;">Hello, In regards to your ad do you still have the Lot for sale? What the actual price you sell to me?<br></span><span style="color: #0000ff;">Mike</span></p>
+
 <p>I promptly responded:</p>
+
 <p style="padding-left: 60px;"><span style="color: #800080;">Tue, May 30, 2017 at 8:16 PM, craigslist <a style="color: #800080;" href="tel:(614)%20456-0372">6144560372</a> &lt;<a style="color: #800080;" href="mailto:jxn2c-6144560372@sale.craigslist.org">jxn2c-6144560372@sale.craigslist.org</a>&gt; wrote:</span></p>
 <p style="padding-left: 60px;"><span style="color: #800080;">Yes, they are still for sale.  I'm asking $5,000 for both but would negotiate a little bit.</span></p>
-<p style="text-align: left;">This email exchange wasn’t unusual, and I’ve probably answered a dozen emails like this over the past few years.  Usually, I never hear back from the person.  Surprisingly, “Mike” responded back shortly.</p>
+
+<p>This email exchange wasn’t unusual, and I’ve probably answered a dozen emails like this over the past few years.  Usually, I never hear back from the person.  Surprisingly, “Mike” responded back shortly.</p>
 
 <p style="padding-left: 30px;"><span style="color: #0000ff;">On Tue, May 30, 2017 at 16:42 Mike Jones 8f5d572a1cec3fa5b4dbc4a7c8128351@reply.craigslist.org wrote:</span></p>
 
 <p style="padding-left: 30px;"><span style="color: #0000ff;">Hi, your email is encrypted by craigslist. Please Provide me with your email address so we email directly. Thanks, Mike</span></p>
+
 <p>My initial thought was, this guy doesn’t understand what “encryption” is.  I figured "what the hey" and responded with my actual Gmail address.  I got another email within a couple of hours:</p>
 
 <p style="padding-left: 30px;"><span style="color: #0000ff;">On Tue, May 30, 2017 at 17:23 Mike Jones elevatedkingforever@gmail.com wrote:</span></p>
